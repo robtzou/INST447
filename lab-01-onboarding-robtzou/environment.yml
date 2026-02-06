@@ -1,0 +1,4 @@
+name: lab01
+dependencies:
+  - python=3.12
+  - jupyterlab
